@@ -1,0 +1,85 @@
+body{
+    background-color: #d207da;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.web{
+   
+    width: 500px;
+    height: auto;
+    padding: 15px 20px 30px;
+    background-color: white;
+    border-radius: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: 5px 10px rgba(92, 88, 91, 0.3);
+   
+}
+h2{
+    text-align: center;
+}
+
+.input{
+    
+
+    font-size: large ;
+    padding: 15px ;
+    text-shadow: 15px;
+    border-radius: 30px;
+    border: 0px solid;
+    text-align: left;
+   background-color: transparent;
+    box-shadow:5px 10px rgba(207, 103, 160, 0.1) ;
+    color: #ccc; 
+    
+}
+.but button{
+    padding: 12px 10px ;
+    text-align: center;
+    color:#f1ebf1;
+    font-size: small;
+    background-color: #d207da;
+    border-radius: 30px;
+    width: 168px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.out{
+   padding: 20px;
+   font-size: smaller;
+   border-radius: 30px;
+}
+.cat{
+    padding: 20px;
+    font-size: medium;
+    
+}
+.cat .fit{
+    position: relative;
+    right: 120px;;
+    font-size: small;
+    border-color: #d207da;
+    border-width: 10px;
+
+}
+.cat .fit1{
+    position: relative;
+    right: 120px;;
+    border-color: #d207da;
+
+}
+.cat .app{
+    position: relative;
+   left: 100px;
+   font-size: small;
+
+}
+.input .bo{
+     padding: 12px;
+     border: none;
+     outline: none;
+      border-radius: 1px;
+     background-color: white;
+     border-color:0px solid white;
+     box-shadow: #f1ebf1;
+    
+}
+
